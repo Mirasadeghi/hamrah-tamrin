@@ -1,15 +1,15 @@
 {
-  "name": "همراه تمرین — برنامه شخصی ۱۲ هفته‌ای",
+  "name": "همراه تمرین | پشت، Core، گردن و سایزها",
   "short_name": "همراه تمرین",
-  "description": "دفترچه تمرین و پایش علائم؛ ویدئوهای مستقیم یوتیوب",
-  "lang": "fa",
-  "dir": "rtl",
-  "id": "./",
+  "description": "دفترچه تمرین فارسی با ثبت سایز و علائم و واحدهای اختصاصی برای هر حرکت",
+  "id": "./index.html",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f3f6fb",
-  "theme_color": "#111c33",
+  "background_color": "#f6f6f2",
+  "theme_color": "#1c463c",
+  "lang": "fa",
+  "dir": "rtl",
   "icons": [
     {
       "src": "icon-192.png",
@@ -22,12 +22,6 @@
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
-    },
-    {
-      "src": "icon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "any"
     }
   ]
 }
